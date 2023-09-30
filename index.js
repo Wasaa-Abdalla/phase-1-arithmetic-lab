@@ -20,3 +20,7 @@
  let max;
  max = Math.max(2,3,10,5,16,18,20,6,12);
  console.log(max);
+
+ let x =6;
+ x++;
+
